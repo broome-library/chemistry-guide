@@ -13,7 +13,7 @@
 * [ChemExper](http://www.chemexper.com/)
 * [Hazardous Substances Data Bank](http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB)
 * [NIST Chemistry Web Book](http://webbook.nist.gov/chemistry/)
-* [NIST Physical Reference Data](http://www.nist.gov/physlab/data/index.cfm)
+* [NIST Physical Reference Data](https://www.nist.gov/pml/productsservices/physical-reference-data)
 
 
 
