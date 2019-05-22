@@ -9,11 +9,12 @@
 ## Chemical Property Web Resources
 
 * [Aldrich Catalog](http://www.sigmaaldrich.com/chemistry.html)
-* [ChemSpider](http://www.chemspider.com/)
 * [ChemExper](http://www.chemexper.com/)
 * [Hazardous Substances Data Bank](http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB)
 * [NIST Chemistry Web Book](http://webbook.nist.gov/chemistry/)
 * [NIST Physical Reference Data](https://www.nist.gov/pml/productsservices/physical-reference-data)
+
+
 
 
 
