@@ -10,11 +10,10 @@
 
 * [Aldrich Catalog](http://www.sigmaaldrich.com/chemistry.html)
 * [ChemExper](http://www.chemexper.com/)
+* [ChemSpider](http://www.chemspider.com/Default.aspx)
 * [Hazardous Substances Data Bank](http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB)
 * [NIST Chemistry Web Book](http://webbook.nist.gov/chemistry/)
 * [NIST Physical Reference Data](https://www.nist.gov/pml/productsservices/physical-reference-data)
-
-
 
 
 
